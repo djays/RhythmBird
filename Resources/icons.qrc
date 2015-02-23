@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>list-add.png</file>
+    <file>list-remove.png</file>
+    <file>roll.png</file>
+    <file>Collection.png</file>
+    <file>logo.png</file>
+    <file>music.png</file>
+    <file>arrow-left-double.png</file>
+    <file>exit.png</file>
+    <file>arrow-right-double.png</file>
+    <file>edit-undo.png</file>
+    <file>edit-rename.png</file>
+    <file>edit-redo.png</file>
+    <file>arrow-right.png</file>
+    <file>audio-volume-high.png</file>
+    <file>audio-volume-muted.png</file>
+    <file>document-save.png</file>
+    <file>edit-clear-list.png</file>
+    <file>edit-clear-locationbar-ltr.png</file>
+    <file>edit-delete.png</file>
+    <file>player_next.png</file>
+    <file>player_pause.png</file>
+    <file>player_prev.png</file>
+    <file>player_start.png</file>
+    <file>player_stop.png</file>
+  </qresource>
+</RCC>

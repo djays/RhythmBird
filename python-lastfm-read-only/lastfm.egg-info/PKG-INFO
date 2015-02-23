@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: lastfm
+Version: 0.2
+Summary: a pure python interface to the Last.fm Webservices API
+Home-page: http://python-lastfm.googlecode.com/svn/trunk/dist/
+Author: Abhinav Sarkar
+Author-email: abhinav.sarkar@gmail.com
+License: GNU Lesser General Public License
+Description: a pure python interface to the Last.fm Webservices API version 2.0,
+        located at http://ws.audioscrobbler.com/2.0/ .
+Keywords: audioscrobbler webservice api last.fm
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Multimedia :: Sound/Audio
+Classifier: Topic :: Internet

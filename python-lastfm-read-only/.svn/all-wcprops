@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/136/trunk
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/120/trunk/setup.py
+END
+epydoc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/114/trunk/epydoc.conf
+END

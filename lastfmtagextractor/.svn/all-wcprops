@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/!svn/ver/8/trunk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/LICENSE
+END
+lastfm_tagger.conf
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/lastfm_tagger.conf
+END
+tagsyn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/tagsyn.txt
+END
+lastfmtagextractor.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5/trunk/lastfmtagextractor.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/7/trunk/setup.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/5/trunk/README
+END

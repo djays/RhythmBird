@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/136/trunk/lastfm/mixin
+END
+_searchable.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/133/trunk/lastfm/mixin/_searchable.py
+END
+_crawlable.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/133/trunk/lastfm/mixin/_crawlable.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/136/trunk/lastfm/mixin/__init__.py
+END
+_sharable.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133/trunk/lastfm/mixin/_sharable.py
+END
+_propertyadder.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/136/trunk/lastfm/mixin/_propertyadder.py
+END
+_chartable.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/136/trunk/lastfm/mixin/_chartable.py
+END
+_taggable.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133/trunk/lastfm/mixin/_taggable.py
+END
+_shoutable.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/133/trunk/lastfm/mixin/_shoutable.py
+END
+_cacheable.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/133/trunk/lastfm/mixin/_cacheable.py
+END

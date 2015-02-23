@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 73
+.settings
+.project
+.pydevproject
+build
+lastfm.egg-info
+python-lastfm.kpf
+
+END

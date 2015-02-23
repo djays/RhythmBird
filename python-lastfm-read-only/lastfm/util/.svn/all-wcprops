@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/136/trunk/lastfm/util
+END
+objectcache.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/134/trunk/lastfm/util/objectcache.py
+END
+_lazylist.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/136/trunk/lastfm/util/_lazylist.py
+END
+safelist.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/133/trunk/lastfm/util/safelist.py
+END
+wormhole.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/134/trunk/lastfm/util/wormhole.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/136/trunk/lastfm/util/__init__.py
+END
+filecache.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/133/trunk/lastfm/util/filecache.py
+END
+logging.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/134/trunk/lastfm/util/logging.py
+END

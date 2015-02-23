@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/136/trunk/lastfm
+END
+error.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/113/trunk/lastfm/error.py
+END
+group.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/136/trunk/lastfm/group.py
+END
+tasteometer.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/113/trunk/lastfm/tasteometer.py
+END
+stats.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/136/trunk/lastfm/stats.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/133/trunk/lastfm/__init__.py
+END
+album.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/136/trunk/lastfm/album.py
+END
+playlist.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/136/trunk/lastfm/playlist.py
+END
+chart.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/136/trunk/lastfm/chart.py
+END
+shout.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/136/trunk/lastfm/shout.py
+END
+wiki.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/136/trunk/lastfm/wiki.py
+END
+track.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/136/trunk/lastfm/track.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/133/trunk/lastfm/decorators.py
+END
+artist.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/136/trunk/lastfm/artist.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/136/trunk/lastfm/api.py
+END
+geo.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/136/trunk/lastfm/geo.py
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/136/trunk/lastfm/base.py
+END
+tag.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/136/trunk/lastfm/tag.py
+END
+user.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/136/trunk/lastfm/user.py
+END
+event.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/136/trunk/lastfm/event.py
+END
+venue.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/136/trunk/lastfm/venue.py
+END

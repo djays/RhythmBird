@@ -1,0 +1,9 @@
+"http://lyricwiki.org/api.php?artist=" + _artist + "&song=" + _search_track + "&fmt=text"
+
+"http://www.lyricsplugin.com/wmplayer03/plugin/?title=" + _search_track + "&artist=" + _artist;
+   remove 
+
+
+
+http://lyricwiki.org/api.php?artist=Metallica&song=Fade+To+Black&fmt=text
+http://www.lyricsplugin.com/wmplayer03/plugin/?title=Fade+to+black&artist=metallica

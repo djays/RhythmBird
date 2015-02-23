@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 44
+dist
+build
+.settings
+.project
+.pydevproject
+
+END
